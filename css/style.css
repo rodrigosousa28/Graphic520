@@ -266,8 +266,8 @@ section.first_background h1 span{
     max-width: 200px;
     max-height: 280px;
     margin: 40px;
-    background-color: rgb(255, 248, 194);
-    box-shadow: inset -1px -1px 20px 0px #b59225;
+    background-color: #fcfcfc;
+    box-shadow: 1px 1px 12px 0px rgb(61, 61, 61);
     border-radius: 7px;
     cursor: pointer;
     transition: 0.15s;
@@ -372,9 +372,9 @@ h1.titulocont{
     width: 40%;
     padding: 20px 25px;
     text-align: center;
-    border-radius: 24px;
-    background-color: rgb(255, 248, 194);
-    box-shadow: inset -1px -1px 20px 0px #b59225;
+    border-radius: 18px;
+    background-color: #ececec;
+    box-shadow: 0px 4px 12px 0px rgb(61, 61, 61);
 }
 
 .biggerc .contato p{
@@ -400,10 +400,6 @@ h1.titulocont{
     max-width: 600px;
 }
 
-.biggerc .contato .formulario:active{
-    border-color: #F19839;
-}
-
 .biggerc .contato .usertext{
     float: right;
     padding: 15px;
@@ -422,10 +418,10 @@ h1.titulocont{
     display: flex;
     width: 40%;
     padding: 20px 25px;
-    border-radius: 24px;
     flex-direction: column;
-    background-color: rgb(255, 248, 194);
-    box-shadow: inset -1px -1px 20px 0px #b59225;
+    border-radius: 18px;
+    background-color: #ececec;
+    box-shadow: 0px 4px 12px 0px rgb(61, 61, 61);
 }
 
 .border{
